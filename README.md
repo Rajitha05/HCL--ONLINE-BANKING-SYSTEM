@@ -27,7 +27,7 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 ![image](https://github.com/abhi9720/BankingPortal-API/assets/68281476/b56a7167-6a3a-49a0-8b8a-8a4e3e71a383)
 ![image](https://github.com/abhi9720/BankingPortal-API/assets/68281476/b5c86e65-cbe8-400a-afeb-895846601da7)
 
-## TODO
+## TO DO
 
 - UI Fix for Dashboard Charts
 - Pagination in table
@@ -92,3 +92,4 @@ We welcome and encourage developers to contribute to the project and help us mak
 👉🏻**Wait for Review**: Your pull request will be reviewed by the project maintainers. Make any necessary changes based on their feedback.
 
 **👏🏻👏🏻 Congratulations! 🎉🎊** Your contribution has been accepted and merged into the main repository. You are now a contributor to the project.
+# THANK YOU!
